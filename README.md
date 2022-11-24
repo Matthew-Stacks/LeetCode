@@ -1,6 +1,6 @@
-# LeetCode Coding Interview Problems
+# LeetCode 
 
-Problems are organized based on **difficulty** and **domain**:
+Coding interview problems organized by **difficulty** and **domain**.
 
 ## Difficulty
 
