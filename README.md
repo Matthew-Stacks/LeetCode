@@ -1,6 +1,6 @@
 # LeetCode 
 
-Coding interview problems organized by **difficulty** and **domain**.
+Coding interview problems organized by **difficulty** and **DSA type**.
 
 ## Difficulty
 
@@ -8,7 +8,7 @@ Coding interview problems organized by **difficulty** and **domain**.
   - Medium
   - Hard
 
-## Domain
+## DSA Type
 
   - Arrays
   - Strings
@@ -19,4 +19,6 @@ Coding interview problems organized by **difficulty** and **domain**.
   - Backtracking
   - Dynamic Programming
   - Design
+  - Math
+  - Primitive Types
   - Other
