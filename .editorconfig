@@ -1,15 +1,22 @@
-# EditorConfig is awesome: http://EditorConfig.org
-
+# EditorConfig is awesome: https://editorconfig.org
 root = true
 
 [*]
 indent_style = space
-indent_size = 4
+
 trim_trailing_whitespace = true
 insert_final_newline = true
-end_of_line = auto
 
-[*.md]
+[*.py]
+indent_size = 4
+quote_type = single
+
+[*.js]
+indent_size = 2
+
+[*.yml]
+
+[*.{markdown,md}]
 trim_trailing_whitespace = false
 
 [Makefile]

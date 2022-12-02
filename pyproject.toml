@@ -1,12 +1,13 @@
 [project]
-name = "leetcode"
-version = "0.0.1"
+name = ""
+version = ""
 description = ""
-authors = [{ name = "Matthew Stacks", email = "m@mstacks.dev" }]
+authors = [
+    {name = "Matt Stacks", email = "m@mstacks.dev"},
+]
 dependencies = []
 requires-python = ">=3.11"
-license = { text = "MIT" }
-[project.optional-dependencies]
+license = {text = "MIT"}
 
 [tool.black]
 line-length = 79
