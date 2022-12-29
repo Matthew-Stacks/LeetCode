@@ -1,4 +1,5 @@
-# Linting/Tooling
+# requirements/dev
+# ----------------------
 pylint
 flake8
 mypy

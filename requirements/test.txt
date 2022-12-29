@@ -1,0 +1,7 @@
+# requirements/test
+# -----------------------
+hypothesis
+pytest
+pytest-benchmark
+pytest-cov
+pytest-parametrized

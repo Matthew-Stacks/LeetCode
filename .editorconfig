@@ -1,20 +1,19 @@
+# .editorconfig
 # EditorConfig is awesome: https://editorconfig.org
+
 root = true
 
 [*]
-indent_style = space
-
-trim_trailing_whitespace = true
+charset = utf-8
+end_of_line = lf
 insert_final_newline = true
+indent_size = 2
+indent_style = space
+trim_trailing_whitespace = true
 
 [*.py]
 indent_size = 4
 quote_type = single
-
-[*.js]
-indent_size = 2
-
-[*.yml]
 
 [*.{markdown,md}]
 trim_trailing_whitespace = false
